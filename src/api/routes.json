@@ -1,0 +1,4 @@
+{
+  "/books/:bookId": "/books/:bookId",
+  "/books/:bookId/chapters/:chapterId": "/books/:bookId/chapters?chapterId=:chapterId"
+}
